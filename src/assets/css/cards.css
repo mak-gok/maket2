@@ -24,8 +24,9 @@ height: 100px;
 
 }
 .card-list{
+    direction: rtl;
     display: flex;
-overflow: scroll;
+overflow: hidden;
 gap: 5px;
 max-width: 1170px;
 }
